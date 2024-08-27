@@ -1,28 +1,120 @@
-# Hi there! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+<h2 align="center">
+  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
+  Hello World!
+  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+</h2>
 
-![home-bg (1)](https://github.com/user-attachments/assets/4a47d221-0d7d-4e94-af62-f404879c8564)
+<h2 align="center">
+    I'm
+    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+    Angel Estarita
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+</h2>
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+<h2 align="left">
+  <samp>
+    <br><br>
+    Backend Developer
+  </samp>
+</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<h3> Here's some fun facts about me: </h3>
+<hr/>
 
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
--  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I am a true science lover 🔬**
--  **Finally, I'm a football-watching frenzy ⚽!**
--  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+<h2 align="center">About</h2>
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+- **Frameworks :** <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-### Here's the languages that I am currently working on:
+<hr/>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left" >
+<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
+  <br />
+  <br />
+  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
+</p>
+<br/>
+<br/>
+<p  align="right" >
+  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
+  <br/>
+  <br/>
+  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
+  <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
+  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
+  <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/dartlang.svg"/>
+  <br />
+  <br />
+  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
+  <br />
+  <br />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
+
+```javascript
+import { Angel } from "Awesome";
+
+const languages = ["Python", "JavaScript"];
+const frameworks = ["React", "Django"];
+
+Angel.skills.push(...languages, ...frameworks);
+```
+
+<hr/>
+
+<p align="center">
+  <a href="https://github.com/dev-akshat/state-of-matter">
+    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
+  </a>
+  <a href="https://github.com/dev-akshat/HackerNews">
+    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=HackerNews" />
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+</p>
+
+<hr/>
+
+<h2 align="center">Find me on</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/akshat-tamrakar">
+    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.hackerrank.com/dev_akshat">
+    <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/dev-akshat">
+    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.instagram.com/a.k.s.h.a.t">
+    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.facebook.com/i.am.akshat.tamrakar">
+    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://twitter.com/AkshatTamraka12">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+  </a>
+
+</p>
