@@ -1,5 +1,4 @@
 <h2 align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
   Hello World!
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
 </h2>
@@ -29,9 +28,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
   Me as a code... 
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
 </p>
 
 ```javascript
@@ -42,26 +39,6 @@ const frameworks = ["React", "Django"];
 
 Angel.skills.push(...languages, ...frameworks);
 ```
-
-<hr/>
-
-<p align="center">
-  <a href="https://github.com/dev-akshat/state-of-matter">
-    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
-  </a>
-  <a href="https://github.com/dev-akshat/HackerNews">
-    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=HackerNews" />
-  </a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
-</p>
-
-<hr/>
 
 <h2 align="center">Find me on</h2>
 
