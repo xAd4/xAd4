@@ -28,9 +28,10 @@
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://cdn.worldvectorlogo.com/logos/javascript" width="50" alt="Symfony logo" />
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Symfony logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorestframework-original.svg" width="50" alt="MySQL logo" />
+          <img src="https://cdn.worldvectorlogo.com/logos/djangorestframework.svg" width="50" alt="Symfony logo" />
+          <img src="https://cdn.worldvectorlogo.com/logos/react" width="50" alt="Symfony logo" />
         </td>
     </tr>
     <tr>
