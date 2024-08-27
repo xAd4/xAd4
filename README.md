@@ -20,38 +20,11 @@
   </samp>
 </h2>
 
-<hr/>
-
 <h2 align="center">About</h2>
 
-- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-- **Frameworks :** <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-<hr/>
-
-<p align="left" >
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <br />
-  <br />
-  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
-</p>
-<br/>
-<br/>
-<p  align="right" >
-  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
-  <br/>
-  <br/>
-  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
-  <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
-  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-  <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/dartlang.svg"/>
-  <br />
-  <br />
-  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
-  <br />
-  <br />
-</p>
+- **Frameworks :** <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <hr/>
 
