@@ -30,7 +30,7 @@
         <td>
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Symfony logo" />
           <img src="https://img.icons8.com/color/48/000000/django-rest-framework.png" width="50" alt="Visual Studio logo" />
-          <img src="[https://img.icons8.com/color/48/000000/react.png](https://iconscout.com/free-icon/django-3628732)" width="50" alt="Visual Studio logo" />
+          <img src="https://iconscout.com/free-icon/django-3628732" width="50" alt="Visual Studio logo" />
         </td>
     </tr>
     <tr>
