@@ -23,7 +23,7 @@ Angel</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/xAd4">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+        <a style="margin-left: 10px;" target="_blank" href="[https://instagram.com/100rabhch](https://www.instagram.com/angel_estarita/)">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
