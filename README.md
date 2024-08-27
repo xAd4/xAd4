@@ -28,10 +28,10 @@
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-          <img src="https://cdn.worldvectorlogo.com/logos/javascript" width="50" alt="Symfony logo" />
+          <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Symfony logo" />
-          <img src="https://cdn.worldvectorlogo.com/logos/djangorestframework.svg" width="50" alt="Symfony logo" />
-          <img src="https://cdn.worldvectorlogo.com/logos/react" width="50" alt="Symfony logo" />
+          <img src="https://img.icons8.com/color/48/000000/django-rest-framework.png" width="50" alt="Visual Studio logo" />
+          <img src="https://img.icons8.com/color/48/000000/react.png" width="50" alt="Visual Studio logo" />
         </td>
     </tr>
     <tr>
