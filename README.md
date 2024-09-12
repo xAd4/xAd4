@@ -5,11 +5,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+
 - 🌱 Expert in Django and Django Rest Framework
 
 - 🤝 I am available for any opportunity to contribute to your project
 
-- 💬 Ask me about **JavaScript, React, Django & Django Rest Framework**
+- 💬 Ask me about **JavaScript, Django & Django Rest Framework**
 
 - 📫 How to reach me **gabrielcardozo3579@gmail.com**
 <br/>
