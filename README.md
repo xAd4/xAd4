@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">I am dedicated to web programming</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🌱 Expert in Django and Django REST Framework
 - 🧪 Experienced in Test-Driven Development (TDD), Agile methodologies, Database Optimization and RESTful APIs
 - 🎯 Interested in backend technologies, data structures, and system design
