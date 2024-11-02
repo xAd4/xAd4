@@ -18,7 +18,7 @@ to teamwork.
 <br/>
 🤝 **I am available for any opportunity to contribute to your project**
 
-## <h3 align="center">Services Offered in Django</h3>
+## <h3 align="center">💼 Services Offered in Django</h3>
 
 🔧 **Custom Web Application Development**  
 Custom web application development using Django to create efficient and scalable solutions tailored to the needs of your project.
@@ -41,16 +41,16 @@ Ongoing support to update and maintain your web application, applying best pract
 👨‍💻 **Technical Consulting**  
 Advice on best practices in web development with Django, optimization of existing projects, and improvement of development processes.
 
-## <h3 align="center">Technologies & Skills</h3>
+## <h3 align="center">💻 Technologies & Skills</h3>
 - **Languages**: Python, JavaScript
 - **Frameworks**: Django, Django REST Framework
 - **Databases**: SQLite, MySQL
 - **Version Control**: Git, GitHub
 
-## <h3 align="center">Certifications & Courses</h3>
+## <h3 align="center">🎓 Certifications & Courses</h3>
 - Completed courses in **JavaScript**, **Python**, and **Django**.
 
-## <h3 align="center">Contact me</h3>
+## <h3 align="center">🌐 Contact me</h3>
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
 - [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
