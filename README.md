@@ -50,7 +50,7 @@ Advice on best practices in web development with Django, optimization of existin
 ## <h3 align="center">Certifications & Courses</h3>
 - Completed courses in **JavaScript**, **Python**, and **Django**.
 
-## <h3 align="center">Connect with Me</h3>
+## <h3 align="center">Contact me</h3>
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
 - [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
