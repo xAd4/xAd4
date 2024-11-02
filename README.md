@@ -53,13 +53,13 @@ Advice on best practices in web development with Django, optimization of existin
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
 - [Twitter](https://x.com/xAd4247250)
 
+- <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">gabrielcardozo3579@gmail.com</h3>
+
 ## <h3 align="center">Downloadable Resumes (EN - ES)</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
 <br/>
-
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">gabrielcardozo3579@gmail.com</h3>
 
 ## <h3 align="center">Let's Collaborate!</h3>
 If you're looking for someone to help bring your ideas to life, feel free to reach out or explore my repositories. I look forward to collaborating with you! 🤝
