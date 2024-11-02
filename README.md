@@ -1,7 +1,10 @@
 ## <h1 align="center">Hi 👋, I'm Angel 🇺🇸</h1> 
 <h3 align="center">I am dedicated to web programming</h3>
 
-I am a passionate web developer who thrives on solving complex problems and creating efficient solutions. My motivation in programming comes from the joy of building applications that can positively impact users' lives. I enjoy continuous learning and staying updated with the latest technologies, especially in the backend domain, where I find my skills truly shine.
+Web developer with solid experience in backend development, specialized in Django and Django REST Framework. I have
+worked on creating robust and scalable web applications, optimizing performance through efficient use of databases and
+scalability strategies. Expert in implementing efficient solutions that significantly improve projects and contribute positively
+to teamwork.
 
 🌱 **Expert in Django and Django REST Framework**
 <br/>
@@ -13,10 +16,6 @@ I am a passionate web developer who thrives on solving complex problems and crea
 <br/>
 <br/>
 🤝 **I am available for any opportunity to contribute to your project**
-
-## <h3 align="center">Featured Projects</h3>
-- **[FLEXSTART](link_to_flexstart)**: A web platform offering customizable website creation services, developed with a focus on TDD and database optimization.
-- **[MEDIPLUS](link_to_mediplus)**: A health-focused web application featuring appointment scheduling and customizable profiles for healthcare providers.
 
 ## <h3 align="center">Services Offered in Django</h3>
 
@@ -44,17 +43,15 @@ Advice on best practices in web development with Django, optimization of existin
 ## <h3 align="center">Technologies & Skills</h3>
 - **Languages**: Python, JavaScript
 - **Frameworks**: Django, Django REST Framework
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: SQLite, MySQL
 - **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Postman, JIRA
 
 ## <h3 align="center">Certifications & Courses</h3>
 - Completed courses in **JavaScript**, **Python**, and **Django**.
-- Ongoing learning in **AWS** and **Docker**.
 
 ## <h3 align="center">Connect with Me</h3>
-- [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
+- [LinkedIn]((https://www.linkedin.com/in/ángel-estarita-21002822a/))
+- [Twitter](https://x.com/xAd4247250)
 
 ## <h3 align="center">Downloadable Resumes (EN - ES)</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
