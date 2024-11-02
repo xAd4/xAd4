@@ -35,7 +35,7 @@ Ongoing support to update and maintain your web application, applying best pract
 👨‍💻 **Technical Consulting**
 Advice on best practices in web development with Django, optimization of existing projects and improvement of development processes
 
-## <h3 align="center">Downloadable Resumes</h3>
+## <h3 align="center">Downloadable Resumes (EN - ES)</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
