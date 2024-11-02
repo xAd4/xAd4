@@ -12,7 +12,7 @@
 <br/>
 🤝 **I am available for any opportunity to contribute to your project**
 
-## Services Offered in Django
+## <h3 align="center">Services Offered in Django</h3>
 
 🔧 **Custom Web Application Development**
 Custom web application development using Django to create efficient and scalable solutions tailored to the needs of your project
@@ -35,7 +35,7 @@ Ongoing support to update and maintain your web application, applying best pract
 👨‍💻 **Technical Consulting**
 Advice on best practices in web development with Django, optimization of existing projects and improvement of development processes
 
-## Downloadable Resumes
+## <h3 align="center">Downloadable Resumes</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
