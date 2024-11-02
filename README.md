@@ -2,8 +2,7 @@
 <h3 align="center">I am dedicated to web programming</h3>
 
 - 🌱 Expert in Django and Django REST Framework
-- 💻 Skills: Python, JavaScript, Database Optimization, RESTful APIs
-- 🧪 Experienced in Test-Driven Development (TDD) and Agile methodologies
+- 🧪 Experienced in Test-Driven Development (TDD), Agile methodologies, Database Optimization and RESTful APIs
 - 🎯 Interested in backend technologies, data structures, and system design
 - 🤝 I am available for any opportunity to contribute to your project
 
