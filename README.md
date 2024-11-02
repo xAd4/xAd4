@@ -50,7 +50,7 @@ Advice on best practices in web development with Django, optimization of existin
 - Completed courses in **JavaScript**, **Python**, and **Django**.
 
 ## <h3 align="center">Connect with Me</h3>
-- [LinkedIn]((https://www.linkedin.com/in/ángel-estarita-21002822a/))
+- [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
 - [Twitter](https://x.com/xAd4247250)
 
 ## <h3 align="center">Downloadable Resumes (EN - ES)</h3>
