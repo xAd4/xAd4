@@ -6,7 +6,7 @@
 </a>
 
 
-- 🌱 Expert in Django
+- 🌱 Expert in Django and Django REST Framework
 
 - 🤝 I am available for any opportunity to contribute to your project
 
