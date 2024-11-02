@@ -1,4 +1,5 @@
 ## <h1 align="center">Oi 👋, eu sou o Angel 🇧🇷</h1> 
+<h3 align="center"><a href="https://github.com/xAd4/xAd4/blob/main/ES-README.md/"> 🇪🇸 </a></h3><h3 align="center"><a href="https://github.com/xAd4/xAd4/blob/main/README.md/"> 🇺🇸 </a></h3>
 <h3 align="center">Sou dedicado à programação web</h3>
 
 Desenvolvedor web com sólida experiência em desenvolvimento backend, especializado em Django e Django REST Framework. Trabalhei na criação de aplicações web robustas e escaláveis, otimizando o desempenho por meio do uso eficiente de bancos de dados e estratégias de escalabilidade. Especialista em implementar soluções eficazes que melhoram significativamente os projetos e contribuem positivamente para o trabalho em equipe.
