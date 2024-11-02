@@ -1,5 +1,5 @@
 ## <h1 align="center">Hola! 👋</h1> 
-<h3 align="center"><a href="https://github.com/xAd4/xAd4/blob/main/README.md/"> EN </a></h3>
+<h3 align="center"><a href="https://github.com/xAd4/xAd4/blob/main/README.md/"> US </a></h3>
 <h3 align="center">Me dedico a la programación web</h3>
 
 Desarrollador web con sólida experiencia en desarrollo backend, especializado en Django y Django REST Framework. He trabajado en la creación de aplicaciones web robustas y escalables, optimizando el rendimiento mediante el uso eficiente de bases de datos y estrategias de escalabilidad. Experto en implementar soluciones eficaces que mejoran significativamente los proyectos y contribuyen positivamente al trabajo en equipo.
@@ -52,7 +52,7 @@ Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimizaci�
 - [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
 
-## <h3 align="center">Currículums Descargables (US - EN)</h3>
+## <h3 align="center">Currículums Descargables (US - ES)</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
