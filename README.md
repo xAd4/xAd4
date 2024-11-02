@@ -1,5 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Angel 🇺🇸</h1>
-- [ES](https://github.com/xAd4/xAd4/blob/main/ES-README.md/)
+<a align="center" href="https://github.com/xAd4/xAd4/blob/main/ES-README.md/">
+ES
+</a>
 <h3 align="center">I am dedicated to web programming</h3>
 
 Web developer with solid experience in backend development, specialized in Django and Django REST Framework. I have
