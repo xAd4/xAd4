@@ -53,7 +53,7 @@ Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimizaci�
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
 
 ## <h3 align="center">Currículums Descargables (EN - ES)</h3>
-- [Currículum Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
+- [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
 <br/>
