@@ -47,7 +47,7 @@ Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimizaci�
 ## <h3 align="center">Certificaciones y Cursos</h3>
 - Cursos completados en **JavaScript**, **Python** y **Django**.
 
-## <h3 align="center">Conéctate Conmigo</h3>
+## <h3 align="center">Contáctame</h3>
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
 - [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
@@ -58,7 +58,7 @@ Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimizaci�
 
 <br/>
 
-## <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">¡Colaboremos!</h3>
+## <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Colaboremos!</h3>
 Si estás buscando a alguien que te ayude a dar vida a tus ideas, no dudes en ponerte en contacto o explorar mis repositorios. ¡Espero colaborar contigo! 🤝
 
 <hr/>
