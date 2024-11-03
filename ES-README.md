@@ -1,5 +1,5 @@
 ## <h1 align="center">Hola! 👋</h1> 
-<h3 align="center"><a href="https://github.com/xAd4/xAd4/blob/main/README.md/"> US </a></h3>
+<h3 align="center"><a href="https://github.com/xAd4/xAd4/blob/main/README.md/"> Version en Inglés </a></h3>
 <h3 align="center">Me dedico a la programación web</h3>
 
 Desarrollador web con sólida experiencia en desarrollo backend, especializado en Django y Django REST Framework. He trabajado en la creación de aplicaciones web robustas y escalables, optimizando el rendimiento mediante el uso eficiente de bases de datos y estrategias de escalabilidad. Experto en implementar soluciones eficaces que mejoran significativamente los proyectos y contribuyen positivamente al trabajo en equipo.
