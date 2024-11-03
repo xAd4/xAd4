@@ -41,7 +41,7 @@ Ongoing support to update and maintain your web application, applying best pract
 👨‍💻 **Technical Consulting**  
 Advice on best practices in web development with Django, optimization of existing projects, and improvement of development processes.
 
-## <h3 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhsczlvaWJuaDI2bzB0OTlkODd3cnFocXRqeGsya3N5ZHpsbWVwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technologies & Skills</h3>
+## <h3 align="center">Technologies & Skills</h3>
 - **Languages**: Python, JavaScript
 - **Frameworks**: Django, Django REST Framework
 - **Databases**: SQLite, MySQL
