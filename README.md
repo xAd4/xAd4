@@ -18,7 +18,7 @@ to teamwork.
 <br/>
 🤝 **I am available for any opportunity to contribute to your project**
 
-## <h3 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemppcmdvZGMzZmJ1bnp4dWNpbWwzMWc4eGJtcmVwODF4cWk1N2dlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Services Offered in Django</h3>
+## <h3 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVycjBqY2xrNTUwenZwdmZvczJvZXAxNXVmb3hiY3RxamdyeWQ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AvrTj5rRdNXovX34AU/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Services Offered in Django</h3>
 
 🔧 **Custom Web Application Development**  
 Custom web application development using Django to create efficient and scalable solutions tailored to the needs of your project.
