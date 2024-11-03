@@ -55,7 +55,7 @@ Advice on best practices in web development with Django, optimization of existin
 - [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
 
-## <h3 align="center">Downloadable Resumes (US - <a href="https://github.com/xAd4/xAd4/blob/main/ES-README.md/"> ES </a>)</h3>
+## <h3 align="center">Downloadable Resumes (US - <a href="https://github.com/xAd4/xAd4/blob/main/ES-README.md/">ES</a>)</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
