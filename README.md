@@ -42,7 +42,7 @@ Ongoing support to update and maintain your web application, applying best pract
 Advice on best practices in web development with Django, optimization of existing projects, and improvement of development processes.
 
 ## <h3 align="center">Technologies & Skills</h3>
-- **Languages**: Python, JavaScript
+- **Languages**: Python, JavaScript, C++
 - **Frameworks**: Django, Django REST Framework
 - **Databases**: SQLite, MySQL
 - **Version Control**: Git, GitHub
