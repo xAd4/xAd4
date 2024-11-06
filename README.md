@@ -1,4 +1,4 @@
-## <h1 align="center">Hello! 👋</h1>
+## <h1 align="center">Hello!</h1>
 <h3 align="center"></h3>
 <h3 align="center">I am dedicated to web programming</h3>
 
@@ -7,38 +7,38 @@ worked on creating robust and scalable web applications, optimizing performance 
 scalability strategies. Expert in implementing efficient solutions that significantly improve projects and contribute positively
 to teamwork.
 
-🌱 **Expert in Django and Django REST Framework**
+**Expert in Django and Django REST Framework**
 <br/>
 <br/>
-🧪 **Experienced in Test-Driven Development (TDD), Agile methodologies, Database Optimization, and RESTful APIs**
+**Experienced in Test-Driven Development (TDD), Agile methodologies, Database Optimization, and RESTful APIs**
 <br/>
 <br/>
-🎯 **Interested in backend technologies, data structures, and system design**
+**Interested in backend technologies, data structures, and system design**
 <br/>
 <br/>
-🤝 **I am available for any opportunity to contribute to your project**
+**I am available for any opportunity to contribute to your project**
 
 ## <h3 align="center">Services Offered in Django</h3>
 
-🔧 **Custom Web Application Development**  
+**Custom Web Application Development**  
 Custom web application development using Django to create efficient and scalable solutions tailored to the needs of your project.
 
-🔒 **Authentication and Security Implementation**  
+**Authentication and Security Implementation**  
 Configuration of robust authentication systems, including login, registration, password reset, and user permissions, ensuring maximum security.
 
-📈 **Database and Performance Optimization**  
+**Database and Performance Optimization**  
 Use of advanced techniques such as `select_related` and `prefetch_related` to optimize database queries and improve overall application performance.
 
-💡 **TDD-based Development (Test-Driven Development)**  
+**TDD-based Development (Test-Driven Development)**  
 Application development with a focus on automated testing to ensure code quality and stability.
 
-📝 **RESTful API Creation**  
+**RESTful API Creation**  
 Design and development of robust and documented APIs to facilitate the integration of external services and frontends.
 
-🛠️ **Project Maintenance and Update**  
+**Project Maintenance and Update**  
 Ongoing support to update and maintain your web application, applying best practices and security improvements.
 
-👨‍💻 **Technical Consulting**  
+**Technical Consulting**  
 Advice on best practices in web development with Django, optimization of existing projects, and improvement of development processes.
 
 ## <h3 align="center">Technologies & Skills</h3>
