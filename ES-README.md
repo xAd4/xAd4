@@ -1,63 +1,67 @@
-## <h1 align="center">Hola!</h1> 
+## <h1 align="center">Hello!</h1>
 <h3 align="center"></h3>
-<h3 align="center">Me dedico a la programación web</h3>
+<h3 align="center">I am dedicated to web programming</h3>
 
-Desarrollador web con sólida experiencia en desarrollo backend, especializado en Django y Django REST Framework. He trabajado en la creación de aplicaciones web robustas y escalables, optimizando el rendimiento mediante el uso eficiente de bases de datos y estrategias de escalabilidad. Experto en implementar soluciones eficaces que mejoran significativamente los proyectos y contribuyen positivamente al trabajo en equipo.
+Web developer with solid experience in backend development, specialized in Django and Django REST Framework. I have
+worked on creating robust and scalable web applications, optimizing performance through efficient use of databases and
+scalability strategies. Expert in implementing efficient solutions that significantly improve projects and contribute positively
+to teamwork.
 
-**Experto en Django y Django REST Framework**
+**Expert in Django and Django REST Framework**
 <br/>
 <br/>
-**Experiencia en Desarrollo Guiado por Pruebas (TDD), metodologías ágiles, Optimización de Bases de Datos y APIs RESTful**
+**Experienced in Test-Driven Development (TDD), Agile methodologies, Database Optimization, and RESTful APIs**
 <br/>
 <br/>
-**Interesado en tecnologías backend, estructuras de datos y diseño de sistemas**
+**Interested in backend technologies, data structures, and system design**
 <br/>
 <br/>
-**Estoy disponible para cualquier oportunidad de contribuir a tu proyecto**
+**I am available for any opportunity to contribute to your project**
 
-## <h3 align="center">Servicios Ofrecidos en Django</h3>
+## <h3 align="center">Services Offered in Django</h3>
 
-**Desarrollo de Aplicaciones Web Personalizadas**  
-Desarrollo de aplicaciones web personalizadas utilizando Django para crear soluciones eficientes y escalables adaptadas a las necesidades de tu proyecto.
+**Custom Web Application Development**  
+Custom web application development using Django to create efficient and scalable solutions tailored to the needs of your project.
 
-**Implementación de Autenticación y Seguridad**  
-Configuración de sistemas de autenticación robustos, incluyendo inicio de sesión, registro, restablecimiento de contraseña y permisos de usuario, asegurando la máxima seguridad.
+**Authentication and Security Implementation**  
+Configuration of robust authentication systems, including login, registration, password reset, and user permissions, ensuring maximum security.
 
-**Optimización de Bases de Datos y Rendimiento**  
-Uso de técnicas avanzadas como `select_related` y `prefetch_related` para optimizar consultas a la base de datos y mejorar el rendimiento general de la aplicación.
+**Database and Performance Optimization**  
+Use of advanced techniques such as `select_related` and `prefetch_related` to optimize database queries and improve overall application performance.
 
-**Desarrollo basado en TDD (Desarrollo Guiado por Pruebas)**  
-Desarrollo de aplicaciones con un enfoque en pruebas automatizadas para garantizar la calidad y estabilidad del código.
+**TDD-based Development (Test-Driven Development)**  
+Application development with a focus on automated testing to ensure code quality and stability.
 
-**Creación de APIs RESTful**  
-Diseño y desarrollo de APIs robustas y documentadas para facilitar la integración de servicios externos y frontends.
+**RESTful API Creation**  
+Design and development of robust and documented APIs to facilitate the integration of external services and frontends.
 
-**Mantenimiento y Actualización de Proyectos**  
-Soporte continuo para actualizar y mantener tu aplicación web, aplicando mejores prácticas y mejoras de seguridad.
+**Project Maintenance and Update**  
+Ongoing support to update and maintain your web application, applying best practices and security improvements.
 
-**Consultoría Técnica**  
-Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimización de proyectos existentes y mejora de procesos de desarrollo.
+**Technical Consulting**  
+Advice on best practices in web development with Django, optimization of existing projects, and improvement of development processes.
 
-## <h3 align="center">Tecnologías y Habilidades</h3>
-- **Lenguajes**: Python, JavaScript, C++
+## <h3 align="center">Technologies & Skills</h3>
+- **Languages**: Python, JavaScript, C++
 - **Frameworks**: Django, Django REST Framework
-- **Bases de Datos**: SQLite, MySQL
-- **Control de Versiones**: Git, GitHub
+- **Databases**: SQLite, MySQL
+- **Version Control**: Git, GitHub
 
-## <h3 align="center">Certificaciones y Cursos</h3>
-- Cursos completados en **JavaScript**, **Python** y **Django**.
+## <h3 align="center">Certifications & Courses</h3>
+- Completed courses in **JavaScript**, **Python**, and **Django**.
 
-## <h3 align="center">Contáctame</h3>
+## <h3 align="center">Contact me</h3>
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
 - [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
 
-## <h3 align="center">Currículums Descargables (<a href="https://github.com/xAd4/xAd4/blob/main/README.md/">US</a> - ES)</h3>
+## <h3 align="center">Downloadable Resumes (US - <a href="https://github.com/xAd4/xAd4/blob/main/ES-README.md/">ES</a>)</h3>
 - [Resume Angel Estarita - Web Developer](https://github.com/xAd4/xAd4/blob/main/CV%20Angel%20Estarita%20-%20Web%20Developer.pdf)
 - [Currículum  Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV%20Ángel%20Estarita%20-%20Desarrollador%20Web.pdf)
 
 <br/>
 
-## <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Colaboremos!</h3>
-Si estás buscando a alguien que te ayude a dar vida a tus ideas, no dudes en ponerte en contacto o explorar mis repositorios. ¡Espero colaborar contigo! 
+## <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Let's Collaborate!</h3>
+If you're looking for someone to help bring your ideas to life, feel free to reach out or explore my repositories. I look forward to collaborating with you! 
+
 <hr/>
