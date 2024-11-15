@@ -39,9 +39,9 @@ Soporte continuo para actualizar y mantener tu aplicación web, aplicando mejore
 Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimización de proyectos existentes y mejora de procesos de desarrollo.
 
 ## <h3 align="center">Tecnologías y Habilidades</h3>
-- **Lenguajes**: Python, JavaScript, C++
+- **Lenguajes**: Python, JavaScript
 - **Frameworks**: Django, Django REST Framework
-- **Bases de Datos**: SQLite, MySQL
+- **Bases de Datos**: SQLite, MySQL, PostgreSQL
 - **Control de Versiones**: Git, GitHub
 
 ## <h3 align="center">Certificaciones y Cursos</h3>
