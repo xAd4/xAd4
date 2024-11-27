@@ -24,7 +24,7 @@ Desarrollo de aplicaciones web personalizadas utilizando Django para crear soluc
 Configuración de sistemas de autenticación robustos, incluyendo inicio de sesión, registro, restablecimiento de contraseña y permisos de usuario, asegurando la máxima seguridad.
 
 **Optimización de Bases de Datos y Rendimiento**  
-Uso de técnicas avanzadas como `select_related` y `prefetch_related` para optimizar consultas a la base de datos y mejorar el rendimiento general de la aplicación.
+Uso de técnicas avanzadas para optimizar consultas a la base de datos y mejorar el rendimiento general de la aplicación.
 
 **Desarrollo basado en TDD (Desarrollo Guiado por Pruebas)**  
 Desarrollo de aplicaciones con un enfoque en pruebas automatizadas para garantizar la calidad y estabilidad del código.
