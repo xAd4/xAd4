@@ -4,21 +4,21 @@
 
 Desarrollador web con sólida experiencia en desarrollo backend, especializado en Django y Django REST Framework. He trabajado en la creación de aplicaciones web robustas y escalables, optimizando el rendimiento mediante el uso eficiente de bases de datos y estrategias de escalabilidad. Experto en implementar soluciones eficaces que mejoran significativamente los proyectos y contribuyen positivamente al trabajo en equipo.
 
-**Experto en Django y Django REST Framework**
+**Experto en el desarrollo web**
 <br/>
 <br/>
 **Experiencia en Desarrollo Guiado por Pruebas (TDD), metodologías ágiles, Optimización de Bases de Datos y APIs RESTful**
 <br/>
 <br/>
-**Interesado en tecnologías backend, estructuras de datos y diseño de sistemas**
+**Interesado en tecnologías de desarrollo web, estructuras de datos y diseño de sistemas**
 <br/>
 <br/>
 **Estoy disponible para cualquier oportunidad de contribuir a tu proyecto**
 
-## <h3 align="center">Servicios Ofrecidos en Django</h3>
+## <h3 align="center">Servicios</h3>
 
 **Desarrollo de Aplicaciones Web Personalizadas**  
-Desarrollo de aplicaciones web personalizadas utilizando Django para crear soluciones eficientes y escalables adaptadas a las necesidades de tu proyecto.
+Desarrollo de aplicaciones web personalizadas para crear soluciones eficientes y escalables adaptadas a las necesidades de tu proyecto.
 
 **Implementación de Autenticación y Seguridad**  
 Configuración de sistemas de autenticación robustos, incluyendo inicio de sesión, registro, restablecimiento de contraseña y permisos de usuario, asegurando la máxima seguridad.
@@ -39,22 +39,17 @@ Soporte continuo para actualizar y mantener tu aplicación web, aplicando mejore
 Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimización de proyectos existentes y mejora de procesos de desarrollo.
 
 ## <h3 align="center">Tecnologías y Habilidades</h3>
-- **Lenguajes**: Python, JavaScript
-- **Frameworks**: Django, Django REST Framework
-- **Bases de Datos**: SQLite, MySQL, PostgreSQL
+- **Lenguajes**: Python, JavaScript y PHP
+- **Frameworks**: Django/Django REST Framework, React.JS y Laravel.
+- **Bases de Datos**: MySQL, SQLite y PostgreSQL.
 - **Control de Versiones**: Git, GitHub
-
-## <h3 align="center">Certificaciones y Cursos</h3>
-- Cursos completados en **JavaScript**, **Python** y **Django**.
 
 ## <h3 align="center">Contáctame</h3>
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
-- [Twitter](https://x.com/xAd4247250)
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
 
 ## <h3 align="center">Currículum Descargable</h3>
 - [Currículum Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV_Angel_Estarita_Desarrollador_Web.pdf)
-
 
 <br/>
 
