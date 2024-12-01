@@ -4,16 +4,16 @@
 
 Programador web con sólida experiencia en desarrollo especializado en el backend. He trabajado en la creación de aplicaciones web robustas y escalables, optimizando el rendimiento mediante el uso eficiente de bases de datos y estrategias de escalabilidad. Experto en implementar soluciones eficaces que mejoran significativamente los proyectos y contribuyen positivamente al trabajo en equipo.
 
-**Experto en el desarrollo web**
+**Experto en el desarrollo web.**
 <br/>
 <br/>
-**Experiencia en Desarrollo Guiado por Pruebas (TDD), metodologías ágiles, Optimización de Bases de Datos y APIs RESTful**
+**Experiencia en Desarrollo Guiado por Pruebas (TDD), metodologías ágiles, Optimización de Bases de Datos y APIs RESTful.**
 <br/>
 <br/>
-**Interesado en tecnologías de desarrollo web, estructuras de datos y diseño de sistemas**
+**Interesado en tecnologías de desarrollo web, estructuras de datos y diseño de sistemas.**
 <br/>
 <br/>
-**Estoy disponible para cualquier oportunidad de contribuir a tu proyecto**
+**Estoy disponible para cualquier oportunidad de contribuir a tu proyecto.**
 
 ## <h3 align="center">Servicios</h3>
 
@@ -39,10 +39,10 @@ Soporte continuo para actualizar y mantener tu aplicación web, aplicando mejore
 Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimización de proyectos existentes y mejora de procesos de desarrollo.
 
 ## <h3 align="center">Tecnologías y Habilidades</h3>
-- **Lenguajes**: Python, JavaScript y PHP
+- **Lenguajes**: Python, JavaScript y PHP.
 - **Frameworks**: Django/Django REST Framework, React.JS y Laravel.
 - **Bases de Datos**: MySQL, SQLite y PostgreSQL.
-- **Control de Versiones**: Git, GitHub
+- **Control de Versiones**: Git y GitHub.
 
 ## <h3 align="center">Contáctame</h3>
 - [LinkedIn](https://www.linkedin.com/in/ángel-estarita-21002822a/)
