@@ -1,5 +1,4 @@
 ## <h1 align="center">Hola!</h1> 
-<h3 align="center"></h3>
 **Experto en el desarrollo web.**
 <br/>
 <br/>
