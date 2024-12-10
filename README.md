@@ -1,9 +1,5 @@
 ## <h1 align="center">Hola!</h1> 
 <h3 align="center"></h3>
-<h3 align="center">Me dedico a la programación web</h3>
-
-Programador web con sólida experiencia en desarrollo especializado en el backend. He trabajado en la creación de aplicaciones web robustas y escalables, optimizando el rendimiento mediante el uso eficiente de bases de datos y estrategias de escalabilidad. Experto en implementar soluciones eficaces que mejoran significativamente los proyectos y contribuyen positivamente al trabajo en equipo.
-
 **Experto en el desarrollo web.**
 <br/>
 <br/>
@@ -36,10 +32,10 @@ Diseño y desarrollo de APIs robustas y documentadas para facilitar la integraci
 Soporte continuo para actualizar y mantener tu aplicación web, aplicando mejores prácticas y mejoras de seguridad.
 
 **Consultoría Técnica**  
-Asesoramiento sobre mejores prácticas en desarrollo web con Django, optimización de proyectos existentes y mejora de procesos de desarrollo.
+Asesoramiento sobre mejores prácticas en desarrollo web, optimización de proyectos existentes y mejora de procesos de desarrollo.
 
 ## <h3 align="center">Tecnologías y Habilidades</h3>
-- **Lenguajes de programación**: Python, JavaScript y PHP.
+- **Lenguajes de programación**: Python, JavaScript, PHP y C++.
 - **Frameworks**: Django/Django REST Framework, React.JS y Laravel.
 - **Bases de Datos**: MySQL, SQLite y PostgreSQL.
 - **Control de Versiones**: Git y GitHub.
