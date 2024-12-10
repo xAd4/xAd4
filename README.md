@@ -44,7 +44,7 @@ Asesoramiento sobre mejores prácticas en desarrollo web, optimización de proye
 - [gabrielcardozo3579@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwMxGggmrFNkRvjKRZDcMbkprCQKKQnHpBJkkXghwvTGSjgVntDhCdrGthlHrpcHchQ) 
 
 ## <h3 align="center">Currículum Descargable</h3>
-- [Currículum Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV_Angel_EstaritaES.pdf)
+- [Currículum Ángel Estarita - Desarrollador Web](https://github.com/xAd4/xAd4/blob/main/CV.pdf)
 
 <br/>
 
