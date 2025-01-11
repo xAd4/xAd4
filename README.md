@@ -5,12 +5,15 @@
 **Experiencia en Desarrollo Guiado por Pruebas (TDD), metodologías ágiles, Optimización de Bases de Datos y APIs RESTful.**
 <br/>
 <br/>
-**Interesado en tecnologías de desarrollo web, estructuras de datos y diseño de sistemas.**
+**Dedicado a las tecnologías web, estructuras de datos, diseño de sistemas y experiencia del usuario.**
 <br/>
 <br/>
 **Estoy disponible para cualquier oportunidad de contribuir a tu proyecto.**
 
 ## <h3 align="center">Servicios</h3>
+
+**Diseño y Desarrollo de Aplicaciones Web Modernas**
+Creación de interfaces de usuario atractivas, intuitivas y optimizadas para todos los dispositivos.
 
 **Desarrollo de Aplicaciones Web Personalizadas**  
 Desarrollo de aplicaciones web personalizadas para crear soluciones eficientes y escalables adaptadas a las necesidades de tu proyecto.
