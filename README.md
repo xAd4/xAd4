@@ -12,36 +12,28 @@
 
 ## <h3 align="center">Servicios</h3>
 
-**Diseño y Desarrollo de Aplicaciones Web Modernas**
-<br/>
+**Diseño y Desarrollo de Aplicaciones Web Modernas**  
 Creación de interfaces de usuario atractivas, intuitivas y optimizadas para todos los dispositivos.
 
 **Desarrollo de Aplicaciones Web Personalizadas**  
-<br/>
 Desarrollo de aplicaciones web personalizadas para crear soluciones eficientes y escalables adaptadas a las necesidades de tu proyecto.
 
 **Implementación de Autenticación y Seguridad**  
-<br/>
 Configuración de sistemas de autenticación robustos, incluyendo inicio de sesión, registro, restablecimiento de contraseña y permisos de usuario, asegurando la máxima seguridad.
 
 **Optimización de Bases de Datos y Rendimiento**  
-<br/>
 Uso de técnicas avanzadas para optimizar consultas a la base de datos y mejorar el rendimiento general de la aplicación.
 
 **Desarrollo basado en TDD (Desarrollo Guiado por Pruebas)**  
-<br/>
 Desarrollo de aplicaciones con un enfoque en pruebas automatizadas para garantizar la calidad y estabilidad del código.
 
 **Creación de APIs RESTful**  
-<br/>
 Diseño y desarrollo de APIs robustas y documentadas para facilitar la integración de servicios externos y frontends.
 
 **Mantenimiento y Actualización de Proyectos**  
-<br/>
 Soporte continuo para actualizar y mantener tu aplicación web, aplicando mejores prácticas y mejoras de seguridad.
 
 **Consultoría Técnica**  
-<br/>
 Asesoramiento sobre mejores prácticas en desarrollo web, optimización de proyectos existentes y mejora de procesos de desarrollo.
 
 ## <h3 align="center">Tecnologías y Habilidades</h3>
