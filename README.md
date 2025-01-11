@@ -38,7 +38,7 @@ Asesoramiento sobre mejores prácticas en desarrollo web, optimización de proye
 
 ## <h3 align="center">Tecnologías y Habilidades</h3>
 - **Lenguajes de programación**: Python, JavaScript, PHP y C++.
-- **Frameworks**: Django/Django REST Framework, React.JS y Laravel.
+- **Frameworks**: Django/Django REST Framework, Node.JS, React.JS y Laravel.
 - **Bases de Datos**: MySQL, SQLite y PostgreSQL.
 - **Control de Versiones**: Git y GitHub.
 
