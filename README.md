@@ -14,24 +14,24 @@ I build high-performance, maintainable backend architectures and full-stack web 
 
 ## BUSINESS IMPACT & TECHNICAL ROI
 
-* **PROFITABILITY — Zero Hidden Costs & Long-Term Scalability**  
+- **PROFITABILITY — Zero Hidden Costs & Long-Term Scalability**  
   Engineered using Clean Architecture and SOLID principles to eliminate technical debt. This approach ensures low maintenance overhead and seamless future feature integration, saving thousands of dollars in refactoring costs.
 
-* **SECURITY — End-to-End Infrastructure Protection**  
+- **SECURITY — End-to-End Infrastructure Protection**  
   Security is integrated into every development stage, protecting platforms against unauthorized access, data leaks, and compliance vulnerabilities to safeguard enterprise brand reputation.
 
-* **STABILITY & PERFORMANCE — High Availability Under Load**  
+- **STABILITY & PERFORMANCE — High Availability Under Load**  
   Systems designed to handle traffic surges and heavy database querying without performance degradation through query optimization, caching strategies, and efficient server resource management.
 
-* **USER ADOPTION — Intuitive Interfaces & Workflow Efficiency**  
+- **USER ADOPTION — Intuitive Interfaces & Workflow Efficiency**  
   Seamless frontend integrations designed to minimize learning curves, boosting employee productivity, reducing support tickets, and improving customer retention.
 
 ---
 
-## ENGINEERING METHODOLOGY
+## ENGINEERING METHODOLOGY & AI WORKFLOWS
 
-1. **SYSTEM ARCHITECTURE & DATABASE BLUEPRINTING**  
-   Rigorous schema design and system blueprinting prior to implementation to identify domain logic flaws early, preventing costly rework and establishing an enterprise-ready database foundation.
+1. **SYSTEM ARCHITECTURE & SPEC-DRIVEN DEVELOPMENT (SDD)**  
+   Rigorous schema design, system blueprinting, and structured specifications prior to implementation. Utilizing advanced AI agents under strict architectural guidelines to accelerate prototyping and prevent domain logic flaws early.
 
 2. **MODULAR DEVELOPMENT & INTEGRATION**  
    Implementation of core business logic using proven design patterns, secure REST APIs, and containerized microservices for modular, fully testable, and maintainable codebases.
@@ -68,18 +68,27 @@ I build high-performance, maintainable backend architectures and full-stack web 
 ![pgRouting](https://img.shields.io/badge/pgRouting-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps, Infrastructure & OS**  
+**DevOps, Infrastructure & Cloud**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI-Augmented Engineering & Workflows**  
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square&logo=openai&logoColor=white)
+![Spec-Driven Development](https://img.shields.io/badge/SDD_Patterns-008080?style=flat-square&logo=opsgenie&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Workflows-8A2BE2?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
 ## LANGUAGES & COMMUNICATION
 
-* **English:** B2 (Upper-Intermediate / Professional Working Proficiency)
-* **Spanish:** Native
+- **English:** B2 (Upper-Intermediate / Professional Working Proficiency)
+- **Spanish:** Native
 
 ---
 
@@ -87,5 +96,5 @@ I build high-performance, maintainable backend architectures and full-stack web 
 
 Available for technical consulting, custom full-stack software development, and strategic backend architectural planning.
 
-* **LinkedIn:** [linkedin.com/in/angelestarita](https://www.linkedin.com/in/angelestarita/)
-* **Email:** [gabrielcardozo3579@gmail.com](mailto:gabrielcardozo3579@gmail.com)
+- **LinkedIn:** [linkedin.com/in/angelestarita](https://www.linkedin.com/in/angelestarita/)
+- **Email:** [gabrielcardozo3579@gmail.com](mailto:gabrielcardozo3579@gmail.com)
