@@ -1,52 +1,49 @@
 # Ángel Estarita
-### Software Architect & Full-Stack Engineer — Backend Infrastructure & Enterprise Solutions
+
+### Full-Stack Developer | Software Engineering · Backend Architecture · DevOps & Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelestarita/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielcardozo3579@gmail.com)
 
 ---
 
-## EXECUTIVE SUMMARY
+## ABOUT ME
 
-I build high-performance, maintainable backend architectures and full-stack web solutions engineered to scale smoothly with your business growth. My core focus is delivering clean, enterprise-grade software that guarantees business continuity, system security, and long-term cost efficiency.
+I am a Full-Stack Developer focused on building and maintaining web applications and scalable software solutions. I work across backend, frontend, databases, and system integrations, with a strong interest in software architecture and clean code.
+
+I also work with DevOps tools and practices to manage infrastructure, automate deployments, and improve software delivery. I use AI coding tools as part of my development process to improve productivity and code quality.
 
 ---
 
-## BUSINESS IMPACT & TECHNICAL ROI
+## ENGINEERING PRINCIPLES
 
-- **PROFITABILITY — Zero Hidden Costs & Long-Term Scalability**  
-  Engineered using Clean Architecture and SOLID principles to eliminate technical debt. This approach ensures low maintenance overhead and seamless future feature integration, saving thousands of dollars in refactoring costs.
-
-- **SECURITY — End-to-End Infrastructure Protection**  
-  Security is integrated into every development stage, protecting platforms against unauthorized access, data leaks, and compliance vulnerabilities to safeguard enterprise brand reputation.
-
-- **STABILITY & PERFORMANCE — High Availability Under Load**  
-  Systems designed to handle traffic surges and heavy database querying without performance degradation through query optimization, caching strategies, and efficient server resource management.
-
-- **USER ADOPTION — Intuitive Interfaces & Workflow Efficiency**  
-  Seamless frontend integrations designed to minimize learning curves, boosting employee productivity, reducing support tickets, and improving customer retention.
+- **Maintainability & Scalability:** I use Clean Architecture, SOLID principles, and modular design to build software that is easy to maintain and extend.
+- **Security:** I follow secure development practices, including OWASP Top 10 recommendations and Threat Modeling.
+- **Performance & Reliability:** I focus on SQL optimization, efficient data processing, and reliable system integrations.
+- **Automation & Delivery:** I use Docker, Linux, and GitHub Actions to automate development and deployment workflows.
 
 ---
 
 ## ENGINEERING METHODOLOGY & AI WORKFLOWS
 
-1. **SYSTEM ARCHITECTURE & SPEC-DRIVEN DEVELOPMENT (SDD)**  
-   Rigorous schema design, system blueprinting, and structured specifications prior to implementation. Utilizing advanced AI agents under strict architectural guidelines to accelerate prototyping and prevent domain logic flaws early.
+1. **SYSTEM DESIGN & SPEC-DRIVEN DEVELOPMENT (SDD)**  
+   I define requirements, data structures, and system behavior before implementation. I use clear specifications to guide development and keep the code aligned with project requirements.
 
-2. **MODULAR DEVELOPMENT & INTEGRATION**  
-   Implementation of core business logic using proven design patterns, secure REST APIs, and containerized microservices for modular, fully testable, and maintainable codebases.
+2. **AI-ASSISTED SOFTWARE DEVELOPMENT**  
+   I use AI coding agents such as Claude Code and OpenAI Codex to support development tasks. I apply Spec-Driven Development (SDD), Context Engineering, and reusable Skills to provide better context, organize tasks, and improve development workflows.
 
-3. **CI/CD AUTOMATION & DEPLOYMENT**  
-   Continuous integration and deployment pipelines engineered to ensure smooth release management, automated quality checks, and zero-downtime production deployments.
+3. **MODULAR DEVELOPMENT & INTEGRATION**  
+   I build backend services, frontend applications, REST APIs, and system integrations using modular and maintainable code. I also work with containers to support consistent development and deployment environments.
 
-4. **DOCUMENTATION & SUPPORT GUARANTEE**  
-   Every project is delivered with comprehensive technical documentation, detailed API specifications, and **3 months of proactive technical support and warranty**.
+4. **CI/CD & DEPLOYMENT**  
+   I create automated workflows with GitHub Actions and Docker to improve build, testing, and production deployment processes.
 
 ---
 
-## TECHNICAL STACK & ARCHITECTURE
+## TECHNICAL STACK & TOOLS
 
-**Backend Core**  
+**Backend Development**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -54,47 +51,51 @@ I build high-performance, maintainable backend architectures and full-stack web 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Frontend & Languages**  
+**Frontend Development**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Database Systems & Geospatial Data**  
+**Databases & Geospatial Data**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS_Extension-00599C?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-00599C?style=flat-square&logo=postgresql&logoColor=white)
 ![pgRouting](https://img.shields.io/badge/pgRouting-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps, Infrastructure & Cloud**  
+**DevOps & Infrastructure**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI-Augmented Engineering & Workflows**  
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square&logo=openai&logoColor=white)
-![Spec-Driven Development](https://img.shields.io/badge/SDD_Patterns-008080?style=flat-square&logo=opsgenie&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Workflows-8A2BE2?style=flat-square&logo=anthropic&logoColor=white)
+**AI-Assisted Development**
 
----
-
-## LANGUAGES & COMMUNICATION
-
-- **English:** B2 (Upper-Intermediate / Professional Working Proficiency)
-- **Spanish:** Native
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![SDD](https://img.shields.io/badge/Spec--Driven_Development-008080?style=flat-square&logo=opsgenie&logoColor=white)
 
 ---
 
-## CONTACT & CONSULTING
+## LANGUAGES
 
-Available for technical consulting, custom full-stack software development, and strategic backend architectural planning.
+- **Spanish:** Native.
+- **English:** B2 — Upper-Intermediate (CVA Certified, CEFR).
+
+---
+
+## CONTACT
+
+I am open to software development opportunities, technical collaborations, and freelance projects involving full-stack development, backend systems, and software infrastructure.
 
 - **LinkedIn:** [linkedin.com/in/angelestarita](https://www.linkedin.com/in/angelestarita/)
 - **Email:** [gabrielcardozo3579@gmail.com](mailto:gabrielcardozo3579@gmail.com)
